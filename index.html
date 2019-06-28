@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="deathcauses" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="webcss.css">
+<link rel="stylesheet" type="text/css" href="deathcauseStyle.css">
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Eagle Lake' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Crete Round' rel='stylesheet'>
+</head>
+
+<body>
+
+
+<div class="tab">
+  <button class="tablinks" onclick="tabclick(event, 'About')" id="defaultOpen">About</button>
+  <button class="tablinks" onclick="tabclick(event, 'DeathCauses')" >Death Causes</button>
+  <button class="tablinks" onclick="tabclick(event, 'RiskFactors')">Risk Factors</button>
+  
+</div>
+
+<!-- // TAB ABOUT -->
+<div id="About" class="tabcontent" width=100% height=100% )>
+  <h1 class="title">A LOOK INTO DEATH</h1>
+
+
+<div class="row">
+  <div class="column left" >
+    <img src="reaper1.jpg" class="reaper">
+  </div>
+  <div class="column middle">
+    <p class="col"><strong>Overview:</strong> This project aims to examine the top 10 leading causes of death in the United States from 1999 to 2016. Additionally, it investigates the correlations between the number one cause, Cardio Vascular Disease (CVD), with certain risk factors such as no exercise, high blood pressure, obesity, etc. Understanding the trends and behaviors of such diseases can help the government and researchers to allocate fundings and resources toward more pressing matters.</p>
+
+    <p class="col"><strong>Data Sources: </strong>Data for leading causes of death is obtained from the National Center for Health Statistics. This data contains the top 10 leading causes of death in the 50 states and the District of Columbia from 1999 to 2016. Data for CVD risk factors is obtained from the Centers for Disease Control and Prevention. This data contains the percentage of population that exhibits certain risk factors for each of the 3,141 United States counties.</p>
+
+  </div>
+  <div class="column right">
+       <img src="clock1.jpg" class="clock">
+  </div>
+</div>
+</div>
+
+<!-- // TAB DEATH CAUSES -->
+
+<div id="DeathCauses" class="tabcontent">
+  <!-- <h1 >Death Causes</h1> -->
+  <h1>Top 10 Causes of death from 1999 to 2016</h1>
+     
+     <div id="para1"><p><b>How to: </b>Click on any legend to activate the corresponding line. Click once to remove the line. Another click to add the line back.</p>
+  <p>Cardio Vascular Diseas (CVD) and Cancer are the two most common causes of death from 1999 to 2016. Although, death by CDV seems to be decreasing, cancer has been increasing. The trends of other causes tend to be steady over the years as there is no significant changes.</p></div>
+  <p style="color: #f2f2f2">abdfafdadf</p>
+    
+  <div id="timeseries">
+    <script type="text/javascript" src="deathcauses1.js"></script>
+  </div>
+
+<h1>States with the most and least death by CVD in 2016</h1>
+<div id='para2'>
+    <p>The data is obtained by calculating the percentage of death by CVD out of all causes for every state in 2016. This plot only shows the 10 states with the highest and lowest rates.</p>
+    <p>New York and Minnesota are the two states with the most and least death by CVD out of all causes. The difference between these two states is about 13%.</p>
+  </div>
+   <div id='topbottom'>
+    <script type="text/javascript" src="barbar.js"></script>
+  </div>
+</div>
+
+<!-- // TAB RISK FACTORS -->
+
+<div id="RiskFactors" class="tabcontent">
+  <link href='https://fonts.googleapis.com/css?family=Crete Round' rel='stylesheet'>
+  <h1>Risk Factors</h1>
+  <div id='para3'>
+    <p><b>How to: </b>Select from the drop down menu to explore different factors. The tooltip shows state name, the percentage of death by CVD, and the percentage of population that exhibits certain risk factor.</p>
+    <p>Overall, there seems to be no correlation between death by CVD and risk factors like having no exercise, eating few fruits and vegetables, obesity, and high blood pressure.</p>
+    </div>
+
+    <div><select id="selectButton"></select></div>
+    <div id='scatterplot'>
+      <script type="text/javascript" src="scatterplot.js"></script>
+    </div>
+   
+</div>
+
+<!-- script for tabs -->
+<script>
+function tabclick(evt, pageName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(pageName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+document.getElementById("defaultOpen").click();
+
+</script>
+
+   
+</body>
+</html> 
