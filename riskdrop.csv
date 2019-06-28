@@ -1,0 +1,201 @@
+State,cvd,risk,pct
+New York,38.04,No Exercise,21.44
+Washing DC,37.71,No Exercise,22.2
+New Jersey,35.03,No Exercise,26.41
+Nevada,34.53,No Exercise,18.49
+Michigan,34.34,No Exercise,17.17
+Oklahoma,33.48,No Exercise,27.62
+Maryland,33.18,No Exercise,24.94
+Arkansas,33.14,No Exercise,26.68
+Alabama,33.09,No Exercise,17.79
+Pennsylvania,32.92,No Exercise,22.12
+Louisiana,32.75,No Exercise,30.49
+Connecticut,32.51,No Exercise,20.94
+Rhode Island,32.05,No Exercise,22.08
+Missouri,32.04,No Exercise,21.13
+Mississippi,32.03,No Exercise,27.18
+Illinois,31.67,No Exercise,10.94
+Iowa,31.62,No Exercise,21.15
+Texas,31.19,No Exercise,6.61
+Vermont,31.19,No Exercise,20.49
+Ohio,30.91,No Exercise,10.8
+Florida,30.78,No Exercise,20.9
+Hawaii,30.68,No Exercise,15.28
+California,30.44,No Exercise,14
+Tennessee,30.33,No Exercise,17.54
+Kansas,30.22,No Exercise,17.83
+Wyoming,30.22,No Exercise,22.08
+Indiana,30.2,No Exercise,23.8
+Georgia,30.17,No Exercise,15.17
+Wisconsin,30.11,No Exercise,17.97
+Massachusetts,30.1,No Exercise,20.17
+Montana,29.9,No Exercise,18.63
+Idaho,29.75,No Exercise,21.59
+North Dakota,29.74,No Exercise,21.43
+Delaware,29.66,No Exercise,25.93
+Kentucky,29.63,No Exercise,29.49
+Virginia,29.45,No Exercise,13.42
+New Hampshire,29.37,No Exercise,20.87
+South Dakota,29.19,No Exercise,23.4
+Nebraska,29.09,No Exercise,17.93
+South Carolina,28.87,No Exercise,26.53
+New Mexico,28.7,No Exercise,23.43
+Utah,28.68,No Exercise,16.4
+West Virginia,28.58,No Exercise,26.31
+Arizona,28.5,No Exercise,23.67
+Maine,27.9,No Exercise,23.72
+North Carolina,27.78,No Exercise,23.39
+Washington,27.66,No Exercise,18.27
+Oregon,26.98,No Exercise,16.99
+Colorado,26.41,No Exercise,8.66
+Minnesota,25.83,No Exercise,12.33
+New York,38.04,Few Fruit and Veg,53.12
+Washing DC,37.71,Few Fruit and Veg,68.1
+New Jersey,35.03,Few Fruit and Veg,73.18
+Nevada,34.53,Few Fruit and Veg,56.84
+Michigan,34.34,Few Fruit and Veg,44.28
+Oklahoma,33.48,Few Fruit and Veg,63.56
+Maryland,33.18,Few Fruit and Veg,66.62
+Arkansas,33.14,Few Fruit and Veg,63.1
+Alabama,33.09,Few Fruit and Veg,41.83
+Pennsylvania,32.92,Few Fruit and Veg,62.52
+Louisiana,32.75,Few Fruit and Veg,69.64
+Connecticut,32.51,Few Fruit and Veg,71.32
+Rhode Island,32.05,Few Fruit and Veg,70.84
+Missouri,32.04,Few Fruit and Veg,46.5
+Mississippi,32.03,Few Fruit and Veg,62.31
+Illinois,31.67,Few Fruit and Veg,22.41
+Iowa,31.62,Few Fruit and Veg,66.4
+Texas,31.19,Few Fruit and Veg,15.21
+Vermont,31.19,Few Fruit and Veg,70.22
+Ohio,30.91,Few Fruit and Veg,34.77
+Florida,30.78,Few Fruit and Veg,57.04
+Hawaii,30.68,Few Fruit and Veg,61
+California,30.44,Few Fruit and Veg,36.1
+Tennessee,30.33,Few Fruit and Veg,28.66
+Kansas,30.22,Few Fruit and Veg,38.07
+Wyoming,30.22,Few Fruit and Veg,78.12
+Indiana,30.2,Few Fruit and Veg,57.24
+Georgia,30.17,Few Fruit and Veg,39.27
+Wisconsin,30.11,Few Fruit and Veg,56.28
+Massachusetts,30.1,Few Fruit and Veg,60.39
+Montana,29.9,Few Fruit and Veg,57.83
+Idaho,29.75,Few Fruit and Veg,69.52
+North Dakota,29.74,Few Fruit and Veg,50.23
+Delaware,29.66,Few Fruit and Veg,79.17
+Kentucky,29.63,Few Fruit and Veg,70.24
+Virginia,29.45,Few Fruit and Veg,26.7
+New Hampshire,29.37,Few Fruit and Veg,71.51
+South Dakota,29.19,Few Fruit and Veg,67.45
+Nebraska,29.09,Few Fruit and Veg,46.22
+South Carolina,28.87,Few Fruit and Veg,70.5
+New Mexico,28.7,Few Fruit and Veg,67.16
+Utah,28.68,Few Fruit and Veg,58.54
+West Virginia,28.58,Few Fruit and Veg,62.91
+Arizona,28.5,Few Fruit and Veg,68.47
+Maine,27.9,Few Fruit and Veg,72.31
+North Carolina,27.78,Few Fruit and Veg,55.1
+Washington,27.66,Few Fruit and Veg,64.95
+Oregon,26.98,Few Fruit and Veg,54.07
+Colorado,26.41,Few Fruit and Veg,31.64
+Minnesota,25.83,Few Fruit and Veg,37.71
+New York,38.04,Obesity,20.98
+Washing DC,37.71,Obesity,21.3
+New Jersey,35.03,Obesity,21.16
+Nevada,34.53,Obesity,18.94
+Michigan,34.34,Obesity,18.33
+Oklahoma,33.48,Obesity,21.61
+Maryland,33.18,Obesity,23.6
+Arkansas,33.14,Obesity,22.65
+Alabama,33.09,Obesity,16.46
+Pennsylvania,32.92,Obesity,22.46
+Louisiana,32.75,Obesity,24.66
+Connecticut,32.51,Obesity,19.31
+Rhode Island,32.05,Obesity,17.94
+Missouri,32.04,Obesity,18.37
+Mississippi,32.03,Obesity,23.49
+Illinois,31.67,Obesity,11.86
+Iowa,31.62,Obesity,20.2
+Texas,31.19,Obesity,6.21
+Vermont,31.19,Obesity,20.08
+Ohio,30.91,Obesity,10.41
+Florida,30.78,Obesity,18.91
+Hawaii,30.68,Obesity,14.5
+California,30.44,Obesity,13.16
+Tennessee,30.33,Obesity,12.85
+Kansas,30.22,Obesity,15.73
+Wyoming,30.22,Obesity,21.2
+Indiana,30.2,Obesity,22.32
+Georgia,30.17,Obesity,14.22
+Wisconsin,30.11,Obesity,19.1
+Massachusetts,30.1,Obesity,17.74
+Montana,29.9,Obesity,16.43
+Idaho,29.75,Obesity,21.62
+North Dakota,29.74,Obesity,19.12
+Delaware,29.66,Obesity,23.4
+Kentucky,29.63,Obesity,22.55
+Virginia,29.45,Obesity,12.85
+New Hampshire,29.37,Obesity,20.5
+South Dakota,29.19,Obesity,21.85
+Nebraska,29.09,Obesity,17.12
+South Carolina,28.87,Obesity,26.83
+New Mexico,28.7,Obesity,20.28
+Utah,28.68,Obesity,16.64
+West Virginia,28.58,Obesity,24.59
+Arizona,28.5,Obesity,20.89
+Maine,27.9,Obesity,22.08
+North Carolina,27.78,Obesity,19.93
+Washington,27.66,Obesity,21.73
+Oregon,26.98,Obesity,19.09
+Colorado,26.41,Obesity,8.82
+Minnesota,25.83,Obesity,13.62
+New York,38.04,High Blood Pressure,15.08
+Washing DC,37.71,High Blood Pressure,26.7
+New Jersey,35.03,High Blood Pressure,26.39
+Nevada,34.53,High Blood Pressure,13.82
+Michigan,34.34,High Blood Pressure,11.22
+Oklahoma,33.48,High Blood Pressure,20.91
+Maryland,33.18,High Blood Pressure,27.82
+Arkansas,33.14,High Blood Pressure,12.29
+Alabama,33.09,High Blood Pressure,11.32
+Pennsylvania,32.92,High Blood Pressure,16.38
+Louisiana,32.75,High Blood Pressure,18.02
+Connecticut,32.51,High Blood Pressure,24.85
+Rhode Island,32.05,High Blood Pressure,27.82
+Missouri,32.04,High Blood Pressure,8.23
+Mississippi,32.03,High Blood Pressure,12.4
+Illinois,31.67,High Blood Pressure,6.63
+Iowa,31.62,High Blood Pressure,20.97
+Texas,31.19,High Blood Pressure,3.11
+Vermont,31.19,High Blood Pressure,23.51
+Ohio,30.91,High Blood Pressure,8.06
+Florida,30.78,High Blood Pressure,16.78
+Hawaii,30.68,High Blood Pressure,19.08
+California,30.44,High Blood Pressure,12.11
+Tennessee,30.33,High Blood Pressure,15.2
+Kansas,30.22,High Blood Pressure,7.18
+Wyoming,30.22,High Blood Pressure,24.66
+Indiana,30.2,High Blood Pressure,12.02
+Georgia,30.17,High Blood Pressure,7
+Wisconsin,30.11,High Blood Pressure,12.38
+Massachusetts,30.1,High Blood Pressure,21.15
+Montana,29.9,High Blood Pressure,13.6
+Idaho,29.75,High Blood Pressure,19.68
+North Dakota,29.74,High Blood Pressure,13.74
+Delaware,29.66,High Blood Pressure,28.97
+Kentucky,29.63,High Blood Pressure,14.94
+Virginia,29.45,High Blood Pressure,11.71
+New Hampshire,29.37,High Blood Pressure,24.6
+South Dakota,29.19,High Blood Pressure,21.75
+Nebraska,29.09,High Blood Pressure,8.61
+South Carolina,28.87,High Blood Pressure,23.6
+New Mexico,28.7,High Blood Pressure,16.32
+Utah,28.68,High Blood Pressure,15.51
+West Virginia,28.58,High Blood Pressure,18.93
+Arizona,28.5,High Blood Pressure,21.86
+Maine,27.9,High Blood Pressure,24.79
+North Carolina,27.78,High Blood Pressure,14.45
+Washington,27.66,High Blood Pressure,22.69
+Oregon,26.98,High Blood Pressure,18.25
+Colorado,26.41,High Blood Pressure,7.67
+Minnesota,25.83,High Blood Pressure,9.59
